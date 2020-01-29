@@ -31,7 +31,7 @@
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="JAVA">
-    <option name="RIGHT_MARGIN" value="240" />
+    <option name="RIGHT_MARGIN" value="120" />
     <option name="BLANK_LINES_BEFORE_CLASS_END" value="1" />
     <option name="BRACE_STYLE" value="2" />
     <option name="CLASS_BRACE_STYLE" value="2" />
@@ -39,6 +39,13 @@
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="FINALLY_ON_NEW_LINE" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="PREFER_PARAMETERS_WRAP" value="true" />
+    <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="PARAMETER_ANNOTATION_WRAP" value="1" />
+    <option name="WRAP_ON_TYPING" value="0" />
     <arrangement>
       <groups>
         <group>
